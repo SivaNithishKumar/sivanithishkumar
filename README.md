@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Siva D. Nithish</h1>
+<h3 align="center">A passionate AI Engineer and Full-Stack Developer from India</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SivaNithish&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Winner&descAlignY=51&descAlign=62" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&width=435&lines=AI+Engineer;Full-Stack+Developer;Lifelong+Learner" />
 </p>
 
 ### 🚀 About Me
@@ -12,24 +14,32 @@ With a strong foundation in Data Structures, OOP, and Systems, I aim to build AI
 
 ### 🧠 Key Projects
 
-- 🔐 **SenseAI - AI Enhanced Learning Companion**
+<details>
+  <summary>🔐 **SenseAI - AI Enhanced Learning Companion**</summary>
   - An offline AI tutor with summarization, translation, question generation, and image generation.
   - Quantized LLMs for on-device use — no internet required.
   - _Tech:_ `HuggingFace`, `OpenCV`, `PyTorch`, `Flask`, `Flutter`
+</details>
 
-- 🕵️‍♂️ **Surveillance using Video Vision Transformers**
+<details>
+  <summary>🕵️‍♂️ **Surveillance using Video Vision Transformers**</summary>
   - Real-time threat detection using ViViT and self-attention on video patches.
   - _Tech:_ `ViViT`, `PyTorch`, `OpenCV`, `Google APIs`
+</details>
 
-- 👥 **PersonaNet - AI Social Media Experience**
+<details>
+  <summary>👥 **PersonaNet - AI Social Media Experience**</summary>
   - AI agents like, comment, and converse with user-generated content.
   - Simulates multiple personalities and engages using summarization, sentiment analysis.
   - _Tech:_ `React`, `Firebase`, `Next.js`, `GCP`, `Genkit`
+</details>
 
-- 🧠 Other Projects:
+<details>
+  <summary>🧠 **Other Projects**</summary>
   - DeepFake Detector
   - Demand Forecasting with Time-Series
   - AI Video Annotation Tool (Consultancy)
+</details>
 
 ---
 
@@ -88,18 +98,16 @@ Worked on real-time LLM deployment pipelines and practical applications of AI, c
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me:
 
 <p align="center">
-  <a href="https://github.com/SivaNithishKumar" target="_blank_">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sivanithishkumar" target="_blank_">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sivanithishkumar.d2022ai-ml@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/sivanithishkumar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="sivanithishkumar" height="30" /></a>
+<a href="https://github.com/SivaNithishKumar" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github" alt="SivaNithishKumar" height="30" /></a>
+<a href="mailto:sivanithishkumar.d2022ai-ml@sece.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="sivanithishkumar.d2022ai-ml@sece.ac.in" height="30" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=SivaNithishKumar.SivaNithishKumar" />
 </p>
 
 ---
@@ -109,6 +117,10 @@ Worked on real-time LLM deployment pipelines and practical applications of AI, c
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SivaNithishKumar&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaNithishKumar&layout=compact&theme=radical" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SivaNithishKumar&theme=radical&row=1&column=7" />
 </p>
 
 ---
